@@ -1,0 +1,6 @@
+{
+    "api_url": "http://localhost:1234/v1/chat/completions",
+    "model_name": "mistralai/mistral-7b-instruct-v0.3",
+    "temperature": 0.35,
+    "max_tokens": 200
+}
